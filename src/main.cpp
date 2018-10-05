@@ -5,6 +5,7 @@
 int main() {
     printf("Rule Breaker!!!\n");
     printf("5 + 2 = %d\n", addNumber(5, 2));
+    printf("5 * 2 = %d\n", mulNumber(5, 2));
     printf("%d\n", getTriangleType(3, 4, 5));
     return 0;
 }
@@ -12,6 +13,9 @@ int main() {
 
 int addNumber(int a, int b) {
     return a + b;
+}
+int mulNumber(int a,int b){
+    return a * b;
 }
 
 int getTriangleType(int a, int b, int c) {
