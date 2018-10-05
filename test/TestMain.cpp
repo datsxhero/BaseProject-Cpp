@@ -9,6 +9,7 @@ int addnumber(int a,int b);
 
 int main() {
     assert(addNumber(5, 2) == 7);
+    assert(mulNumber(5, 2) == 10);
     testGetTriangleType();
     return 0;
 }

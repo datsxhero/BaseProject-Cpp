@@ -14,6 +14,9 @@ int main() {
 int addNumber(int a, int b) {
     return a + b;
 }
+int mulNumber(int a,int b){
+    return a * b;
+}
 
 int getTriangleType(int a, int b, int c) {
     if (a > b && a > c) {
