@@ -1,6 +1,6 @@
 # BaseProject-Cpp
-[![Build Status](https://travis-ci.org/1071-FCU-SE/BaseProject-Cpp.svg?branch=master)](https://travis-ci.org/1071-FCU-SE/BaseProject-Cpp)
-[![codecov](https://codecov.io/gh/1071-FCU-SE/BaseProject-Cpp/branch/master/graph/badge.svg)](https://codecov.io/gh/1071-FCU-SE/BaseProject-Cpp)
+[![Build Status](https://travis-ci.org/datsxhero/BaseProject-Cpp.svg?branch=master)](https://travis-ci.org/datsxhero/BaseProject-Cpp)
+[![codecov](https://codecov.io/gh/datsxhero/BaseProject-Cpp/branch/master/graph/badge.svg)](https://codecov.io/gh/datsxhero/BaseProject-Cpp)
 
 分組專題基本樣板(C++)
 
